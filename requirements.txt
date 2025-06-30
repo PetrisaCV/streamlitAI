@@ -112,6 +112,8 @@ orjson==3.10.18
 overrides==7.7.0
 packaging==24.2
 pandas==2.3.0
+protobuf==3.20.3
+pysqlite3-binary
 parso==0.8.4
 pexpect==4.9.0
 pillow==11.2.1
