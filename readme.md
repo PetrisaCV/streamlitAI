@@ -46,7 +46,7 @@
 
 ## How to Run
 1. Install required packages: `pip install streamlit chromadb transformers torch docling`
-2. Run the app: `streamlit run Final_app2.py`
+2. Run the app: `streamlit run Final_app2.py` (before running the app, insert your ChatGPT API key in the header)
 3. Upload documents and start asking questions!
 
 ## Challenges & Solutions
